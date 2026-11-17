@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fifthraven-studios.github.io/sitemap.xml
